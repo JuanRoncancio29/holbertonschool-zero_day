@@ -1,6 +1,6 @@
 #!/bin/bash
 <<<<<<< HEAD
-echo "Holberton Schoool"
+echo "Holberton School"
 =======
 echo "Holberton School"
 >>>>>>> update_script
