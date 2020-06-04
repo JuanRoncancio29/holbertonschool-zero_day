@@ -1,1 +1,1 @@
-Some comands on emacs
+# Some comands to use in Emacs
